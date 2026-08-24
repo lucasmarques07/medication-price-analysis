@@ -1,0 +1,76 @@
+{
+    "medicamentos": [
+        {
+            "nome": "Dipirona 500mg",
+            "categoria": "Analgesico",
+            "farmacias": [
+                {
+                    "nome": "Farmacia Central",
+                    "preco": 12.90,
+                    "distancia_km": 1.2,
+                    "estoque": 25
+                },
+                {
+                    "nome": "Drogaria Brasil",
+                    "preco": 10.50,
+                    "distancia_km": 3.8,
+                    "estoque": 8
+                },
+                {
+                    "nome": "Farmacia Popular",
+                    "preco": 11.90,
+                    "distancia_km": 2.1,
+                    "estoque": 15
+                }
+            ]
+        },
+        {
+            "nome": "Paracetamol 750mg",
+            "categoria": "Analgesico",
+            "farmacias": [
+                {
+                    "nome": "Farmacia Central",
+                    "preco": 15.90,
+                    "distancia_km": 1.2,
+                    "estoque": 30
+                },
+                {
+                    "nome": "Drogaria Brasil",
+                    "preco": 13.50,
+                    "distancia_km": 3.8,
+                    "estoque": 12
+                },
+                {
+                    "nome": "Farmacia Popular",
+                    "preco": 14.20,
+                    "distancia_km": 2.1,
+                    "estoque": 4
+                }
+            ]
+        },
+        {
+            "nome": "Ibuprofeno 600mg",
+            "categoria": "Anti-inflamatorio",
+            "farmacias": [
+                {
+                    "nome": "Farmacia Central",
+                    "preco": 18.90,
+                    "distancia_km": 1.2,
+                    "estoque": 7
+                },
+                {
+                    "nome": "Drogaria Brasil",
+                    "preco": 16.40,
+                    "distancia_km": 3.8,
+                    "estoque": 20
+                },
+                {
+                    "nome": "Farmacia Popular",
+                    "preco": 17.90,
+                    "distancia_km": 2.1,
+                    "estoque": 10
+                }
+            ]
+        }
+    ]
+}
